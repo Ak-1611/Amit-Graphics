@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 60" width="180" height="42" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Amit Graphics</title>
+  <defs>
+    <linearGradient id="plateGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF5A36"/>
+      <stop offset="100%" stop-color="#2A1B3D"/>
+    </linearGradient>
+  </defs>
+  <!-- registration-mark style mark, referencing print production -->
+  <g transform="translate(0,6)">
+    <circle cx="22" cy="22" r="18" fill="none" stroke="url(#plateGrad)" stroke-width="3"/>
+    <line x1="22" y1="2" x2="22" y2="42" stroke="#FF5A36" stroke-width="2"/>
+    <line x1="2" y1="22" x2="42" y2="22" stroke="#FF5A36" stroke-width="2"/>
+    <circle cx="22" cy="22" r="5" fill="#EDEAE4"/>
+  </g>
+  <text x="56" y="30" font-family="'Space Grotesk', sans-serif" font-size="24" font-weight="700" fill="#EDEAE4">AMIT</text>
+  <text x="56" y="50" font-family="'Space Grotesk', sans-serif" font-size="14" font-weight="500" letter-spacing="3" fill="#FF5A36">GRAPHICS</text>
+</svg>
